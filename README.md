@@ -9,5 +9,7 @@ The program asks the user:
 It then combines both to generate a band name.
 
 Example:
-City: Virginia
+City: Boston
 Pet: Milo
+
+Band Name: Boston Milo
