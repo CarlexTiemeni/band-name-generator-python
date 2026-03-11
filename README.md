@@ -13,3 +13,8 @@ City: Boston
 Pet: Milo
 
 Band Name: Boston Milo
+
+# What I learned 
+- Basic user input with Python
+- String concatenation
+- How to structure a simple project
